@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Pedro and I'm Porto, Portugal.
 - 🎓 I've built these repos to showcase some challenges in the making of my Psychology Master's thesis.
-- 📈 I'm also interested in Data Analysis.
+- 📈 I'm also interested in Statistics and Data Analysis.
